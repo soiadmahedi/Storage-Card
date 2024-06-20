@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/soiadmahedi/Storage-Card/edit/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" style="width: 30%;" />
+  <img src="main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" style="width: 30%;" />
 </p>
 
 # Storage Card App Description
